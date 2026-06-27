@@ -1,10 +1,9 @@
-<p align="center"> <img src="https://pixelsafari.neocities.org/dividers/more/roses.gif" /><img src="https://pixelsafari.neocities.org/dividers/more/roses.gif" /> </p>
+<div align="center">
 
+<img width="819" height="327" alt="image" src="https://github.com/user-attachments/assets/e3ae7101-e222-4f63-8689-af950e6ab531" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Bl00diedFangzx&label=Vampz&color=4c1821&style=flat" alt="Bl00diedFangz" /> </p>
-<p align="center"> <img src="https://pixelsafari.neocities.org/dividers/animal/bat.gif" /> </p>
-<p align="center"> <img src="https://64.media.tumblr.com/1684012e2ffd36c45a23e036cb427840/5963ef35a5c8b94f-70/s540x810/efc88558dcd22d762b8181392e108cc28e25be7d.gif" /> </p>
-<p align="center"> <img src="https://pixelsafari.neocities.org/dividers/animal/bat.gif" /> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&pause=1000&color=907562&center=true&width=435&lines=WELCOME+TO+MY+DAMN+GITHUB%2C+YOU+EXTRAS!" alt="Typing SVG" /></a>
 
+![Visitor Count](https://hits.sh/Bl00diedFangz.github.io.svg?label=bunch-of-extras&color=907562)
 
-<p align="center"> <img src="https://pixelsafari.neocities.org/dividers/more/roses.gif" /><img src="https://pixelsafari.neocities.org/dividers/more/roses.gif" /> </p>
+${\textsf{\color{#907562}I love my boyfriend, me and him are literally Kacchan and Deku}}$
