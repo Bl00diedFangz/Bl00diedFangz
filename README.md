@@ -6,8 +6,6 @@
 
 ![Visitor Count](https://hits.sh/Bl00diedFangz.github.io.svg?label=bunch-of-extras&color=907562)
 
-
 <p align="center"> <img src="https://i.pinimg.com/originals/6e/a7/85/6ea785566138a1e8ad7988388872ff6f.gif" /> </p>
-
 
 ${\textsf{\color{#907562}I love my boyfriend, me and him are literally Kacchan and Deku}}$
